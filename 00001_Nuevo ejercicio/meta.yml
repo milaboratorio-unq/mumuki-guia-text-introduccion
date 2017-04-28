@@ -1,0 +1,16 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: 
+teacher_info: 
+manual_evaluation: false
+choices:
+- value: Uno
+  checked: false
+- value: Dos
+  checked: true
+- value: Tres
+  checked: false
